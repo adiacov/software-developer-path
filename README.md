@@ -1,2 +1,2 @@
-# software-developer-path
-Software developer path
+# path-software-developer
+A series of projects to improve software developer skills
